@@ -1,0 +1,84 @@
+[05-Jan-2017 18:00:24 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', 'Adriana Mercede...')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', 'Adriana Mercede...')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(895): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[06-Jan-2017 17:44:23 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', 'MERCEDES CECIBE...')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', 'MERCEDES CECIBE...')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(895): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[09-Jan-2017 15:18:31 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', '')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(895): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[09-Jan-2017 15:41:54 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', '')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(895): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[09-Jan-2017 16:54:30 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', '')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(895): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[19-Jan-2017 14:51:22 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', 'Maria Jose Agui...')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', 'Maria Jose Agui...')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(898): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[19-Jan-2017 14:51:39 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', 'Maria Jose Agui...')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', 'Maria Jose Agui...')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(898): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[19-Jan-2017 14:51:53 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', 'Maria Jose Agui...')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', 'Maria Jose Agui...')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(898): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[19-Jan-2017 14:52:01 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', 'Maria Jose Agui...')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', 'Maria Jose Agui...')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(898): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[27-Jan-2017 14:37:56 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', 'MARINA CECILIA ...')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', 'MARINA CECILIA ...')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(898): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[31-Jan-2017 17:06:44 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', 'ELVIRA MARICELA...')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', 'ELVIRA MARICELA...')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(898): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869
+[07-Mar-2017 18:05:20 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (addAnAddress to): ' in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php:869
+Stack trace:
+#0 /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php(809): PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(358): PHPMailer->addAddress('', '')
+#2 /home/redlinksweb/public_html/admisionesweb/modulos/verSolicitud/controller.php(898): handler()
+#3 {main}
+  thrown in /home/redlinksweb/public_html/admisionesweb/includes/mailer/PHPMailer/class.phpmailer.php on line 869

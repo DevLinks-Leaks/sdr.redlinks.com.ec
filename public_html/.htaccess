@@ -1,0 +1,21 @@
+RewriteEngine on
+RewriteRule ^sdrlinks/ index.php
+RewriteRule ^rrhh index2.php
+RewriteRule ^rrhh/ index2.php
+RewriteRule ^cambiarPass/ modulos/cambiarPass/controller.php
+RewriteRule ^general/ modulos/general/controller.php
+RewriteRule ^reclamar/ modulos/reclamar/controller.php
+RewriteRule ^informe/ modulos/informe/controller.php
+RewriteRule ^interesado/ modulos/interesado/controller.php
+RewriteRule ^periodo/ modulos/periodo/controller.php
+RewriteRule ^premio/ modulos/premio/controller.php
+RewriteRule ^rol/ modulos/rol/controller.php
+RewriteRule ^usuario/ modulos/usuario/controller.php
+RewriteRule ^verSolicitud/ modulos/verSolicitud/controller.php
+RewriteRule ^enviarSolicitud/ modulos/enviarSolicitud/controller.php
+RewriteRule ^documentos_admision/ modulos/documentos_admision/controller.php
+RewriteRule ^acerca/ modulos/acerca/controller.php
+RewriteRule ^region/ modulos/region/controller.php
+RewriteRule ^colegio/ modulos/colegio/controller.php
+RewriteRule ^profesion/ modulos/profesion/controller.php
+RewriteRule ^adminPeriodos/ modulos/adminPeriodos/controller.php

@@ -1,0 +1,2 @@
+La versión del font awesome es 4.5.0
+2016.03.15
